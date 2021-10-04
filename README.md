@@ -17,6 +17,9 @@ The discussion will be interactive and we will be assessing for your comprehensi
 ## How long should this take?
 This should take somewhere between 15 and 40 minutes out of the 60-minute technical screen.
 
+## Will I need to write code during the interview?
+No. You will be asked to explain any changes you would make at a high-level, but you will not need to implement them in real-time. However, if that is your preferred way to think through the problem, you are more than welcome to do so. 
+
 ## How do I build this code? Where is the rest of the project?
 This code sample (a React component) is designed to be largely standalone so that you shouldn't need to build it as part of a project to understand what it does. We do **not** expect you to try and build and test this sample code before the interview.
 
